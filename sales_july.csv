@@ -1,0 +1,19 @@
+#,sale_date,branch_name,region,sales
+1,2025-07-01,Birmingham Central,Midlands,1200
+2,2025-07-01,London Stratford,South,2100
+3,2025-07-01,Leeds City,North,1800
+4,2025-07-01,Birmingham Central,Midlands,1200
+5,2025-07-01,London Stratford,South,2100
+6,2025-07-01,Leeds City,North,1800
+7,2025-07-02,Birmingham Central,Midlands,1350
+8,2025-07-02,London Stratford,South,1950
+9,2025-07-02,Leeds City,North,1750
+10,2025-07-03,Birmingham Central,Midlands,1100
+11,2025-07-03,London Stratford,South,2200
+12,2025-07-03,Leeds City,North,1600
+13,2025-07-01,Manchester Piccadilly,North,1400
+14,2025-07-02,Manchester Piccadilly,North,1550
+15,2025-07-03,Manchester Piccadilly,North,1500
+16,2025-07-01,Bristol Harbourside,South,1700
+17,2025-07-02,Bristol Harbourside,South,1650
+18,2025-07-03,Bristol Harbourside,South,1850
